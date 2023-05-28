@@ -18,4 +18,4 @@
 >=net-misc/spice-gtk-0.42 usbredir
 >=net-dns/dnsmasq-2.89 script
 >=app-emulation/qemu-8.0.0-r1 virgl
->=app-emulation/virtualbox-7.0.8a gui opengl pulseaudio vde vnc
+>=app-emulation/virtualbox-7.0.8a gui opengl pulseaudio vde vnc udev
